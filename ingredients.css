@@ -9,11 +9,10 @@
   border-bottom: solid 10px rgba(0,0,0,.1);
 }
 
-.cheese {
-  height: 15px;
-  width: 65%;
-  background: #f2c120;
-  border-bottom: solid 2px rgba(0,0,0,.1);
+.onion {
+  width: 40%;
+  background-color: #aa43c9;
+  border-top: dotted 20px rgba(255,255,255,.2);
 }
 
 .tomato {
@@ -21,6 +20,35 @@
   width: 50%;
   background-color: #dd3710;
   border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.lettuce {
+  height: 5px;
+  width: 70%;
+  background: #65bf24;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pineapple {
+  height: 25px;
+  width: 52%;
+  background-color: #ffe057;
+  border-bottom: solid 2px rbga(0,0,0,0.1)
+}
+
+.bacon {
+  height: 1px;
+  width: 68%;
+  background: #893221;
+  border-bottom: solid 10px #be3615;
+  border-radius: 100px 100px 20px 20px;
+}
+
+.cheese {
+  height: 10px;
+  width: 65%;
+  background: #ffe798;
+  border-bottom: solid 2px rgba(237, 220, 9, 0.1);
 }
 
 .patty {
@@ -31,10 +59,13 @@
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
-.onion {
-  width: 40%;
-  background-color: #a039bf;
-  border-top: dotted 20px rgba(255,255,255,.2);
+.chicken {
+  height: 2px;
+  width: 55%;
+  background: #eab060;
+  border-radius: 10px;
+  border-top: dotted 16px rgba(255,255,255,.2);
+  border-bottom: dotted 16px rgba(255,255,255,.2);
 }
 
 .bun-bottom {
@@ -48,6 +79,6 @@
 .plate {
   height: 25px;
   width: 80%;
-  background: #656565;
+  background: #cccccc;
   border-radius: 20px 20px 200px 200px;
 }
